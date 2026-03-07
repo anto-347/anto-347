@@ -71,7 +71,7 @@ Planned features:
 - Basic file system
 - Text file creation
 
----
+
 
 ### 🌐 Web Matching Application
 A **fullstack web application** that connects people together.
@@ -84,14 +84,14 @@ Built with:
 I stopped the project after a few months because I wanted to explore **lower-level programming**.
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=anto-347&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anto-347&layout=compact&theme=tokyonight)
 
----
+--- -->
 
 ## 📫 Contact
 

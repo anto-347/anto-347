@@ -81,7 +81,7 @@ Built with:
 - PHP
 - Laravel
 
-I stopped the project after a few months because I wanted to explore **lower-level programming**.
+It connects people by helping those who want to help others and those who need help to find each other.
 
 ---
 <!--

@@ -2,7 +2,6 @@
 
 🎓 High school student (17 y/o) passionate about computer science  
 💻 I love exploring different areas of programming to find what truly excites me  
-🚀 Future goal: join a French engineering school in computer science
 
 ---
 
@@ -18,7 +17,6 @@ Currently I’m especially interested in:
 - ⚙️ **Operating systems**
 - 🧠 **Machine learning (next step)**
 
-My goal is to enter a **French engineering school in computer science** and later work in the tech industry.
 
 ---
 
@@ -27,7 +25,7 @@ My goal is to enter a **French engineering school in computer science** and late
 - Learning **C and Assembly**
 - Building a **simple operating system from scratch**
 - Improving my **Linux and low-level knowledge**
-- Preparing to dive deeper into **Machine Learning with Python**
+- Diving deeper into **Machine Learning with Python**
 
 ---
 
@@ -84,14 +82,6 @@ Built with:
 It connects people by helping those who want to help others and those who need help to find each other.
 
 ---
-<!--
-## 📊 GitHub Stats
-
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=anto-347&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anto-347&layout=compact&theme=tokyonight)
-
---- -->
 
 ## 📫 Contact
 
@@ -101,17 +91,4 @@ It connects people by helping those who want to help others and those who need h
 
 ⭐️ From [anto-347](https://github.com/anto-347)
 
-<!--
-**anto-347/anto-347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
